@@ -1,0 +1,4 @@
+connect:Unity
+  (Unity Editor) or (UnityPlayer.dll)
+
+find tscmanager; or UnityPlayer.dll;
